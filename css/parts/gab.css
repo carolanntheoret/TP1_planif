@@ -1,0 +1,34 @@
+header.membre4
+{
+    background-color: rgb(23, 91, 114);
+}
+
+header *
+{
+    color: white;
+}
+
+section
+{
+    border: 2px solid rgb(23, 91, 114);
+    border-radius: 20px;
+}
+
+header nav ul li:hover
+{
+    animation-name: spin;
+    animation-duration: 111ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+  
+@keyframes spin {
+    from
+    {
+        transform:rotate(0deg);
+    }
+    to
+    {
+        transform:rotate(360deg);
+    }
+}
