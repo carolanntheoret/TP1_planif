@@ -1,0 +1,22 @@
+
+header
+{
+    color: aliceblue;
+    background-image: url(https://bookstr.com/wp-content/uploads/2020/12/dark-fantasy.jpg);    
+ 
+}
+h1{
+    font-family: Megrim; 
+    font-size: xxx-large;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+a
+{
+    color:rgb(157, 169, 191);
+    font-family: Megrim; 
+    font-size: large;
+    font-weight: bolder;
+    text-decoration: none;
+}
